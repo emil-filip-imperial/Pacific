@@ -1,2 +1,2 @@
-# JACC
+# Pacific
 Just another C compiler.
